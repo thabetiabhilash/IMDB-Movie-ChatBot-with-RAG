@@ -1,0 +1,11 @@
+pandas
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+openai
+sentence-transformers
+torch
+gradio
+tabulate
